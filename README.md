@@ -1,6 +1,2 @@
 # Project Description
-This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MYSQL
-# Postman Screenshot
-![postman_request_output](screenshots/postman.png)
-# SQL Data Screenshot
-![pycharm_data_query](screenshots/query.png)
+This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MYSQL.  This part of the project creates the index and layout templates inside the app directory.
