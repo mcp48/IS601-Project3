@@ -1,2 +1,2 @@
 # Project Description
-This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MYSQL.  This part of the project creates the index and layout templates inside the app directory.
+This project is a homework assignment to teach how to get Pycharm setup with Docker, Flask, MYSQL.  This part of the project introduces the use of forms to update, edit, and delete records.
