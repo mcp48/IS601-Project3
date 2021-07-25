@@ -3,3 +3,6 @@ This project is a homework assignment to teach how to get Pycharm setup with Doc
 <br>
 <br>
 When doing this part of the project, I created a new GitHub repository, and only the branch entitled "Part4-MyData" was uploaded to GitHub.
+
+### Word Document
+[Project 3 Word Document](Project3-WordDoc.docx)
