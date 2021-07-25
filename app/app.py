@@ -66,7 +66,7 @@ def form_insert_post():
                  request.form.get('fldCountry'), request.form.get('fldAbbreviation'),
                  request.form.get('fldCapitalStatus'), request.form.get('fldPopulation'))
     sql_insert_query = """INSERT INTO tblCitiesImport (fldName,fldLat,fldLong,fldCountry,fldAbbreviation,
-        fldCapitalStatus,fldPopulation) VALUES (%s,%s, %s,%s, %s,%s, %s)"""
+                        fldCapitalStatus,fldPopulation) VALUES (%s,%s, %s,%s, %s,%s, %s)"""
     cursor.execute(sql_insert_query, inputData)
     mysql.get_db().commit()
     return redirect("/", code=302)
